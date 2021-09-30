@@ -11,7 +11,7 @@ This project requires **Python** and the following Python libraries installed:
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-Preferable Enironemnt:
+Preferable Environment:
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ### modAL
