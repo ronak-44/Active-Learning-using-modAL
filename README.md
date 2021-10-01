@@ -22,12 +22,18 @@ modAL is an active learning framework for Python3, designed with modularity, fle
 
 To be updated soon
 
-### Classification Task
+| Classification Data | Regression Data |
+| ------------- |:-------------:|
+| ![alt text](https://github.com/ronak-44/Active-Learning-using-modAL/blob/master/ClassificationData.jpg) | ![alt text](https://github.com/ronak-44/Active-Learning-using-modAL/blob/master/RegressionData.jpg) |
+
+
+
+### Classification Output
 
 ![alt text](https://github.com/ronak-44/Active-Learning-using-modAL/blob/master/ClassificationPredictions.jpg)
 
 
-### Regression Task
+### Regression Output
 
 ![alt text](https://github.com/ronak-44/Active-Learning-using-modAL/blob/master/RegressionPredictions.jpg)
 
