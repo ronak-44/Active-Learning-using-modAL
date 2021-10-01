@@ -27,6 +27,10 @@ To be updated soon
 | ![alt text](https://github.com/ronak-44/Active-Learning-using-modAL/blob/master/ClassificationData.jpg) | ![alt text](https://github.com/ronak-44/Active-Learning-using-modAL/blob/master/RegressionData.jpg) |
 
 
+### How to use
+
+To be updated soon
+
 
 ### Classification Output
 
